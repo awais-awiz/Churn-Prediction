@@ -93,11 +93,11 @@ Run all cells sequentially.
 - Deep learning approaches for churn prediction
 
 ## Team
-- Awais Arif
-- Maliha Fajar
-- Afaq Imran
-- Muhammad Abdullah Nadeem
-- Hassan Zahid
+- [Awais Arif](https://github.com/username)
+- [Maliha Fajar](https://github.com/username)
+- [Afaq Imran](https://github.com/username)
+- [Muhammad Abdullah Nadeem](https://github.com/username)
+- [Hassan Zahid](https://github.com/username)
 
 ## License
 This repository is for educational and research purposes.
